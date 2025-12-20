@@ -1,3 +1,24 @@
+# Fake News and Misinformation Detector
+
+This project is an AI-based Fake News and Misinformation Detection system designed to identify misleading or false information from news articles and online content.
+
+## Problem Statement
+The rapid spread of fake news on social media and digital platforms can mislead users and create social harm. There is a need for an automated system that helps users verify information before sharing it.
+
+## Proposed Solution
+The system uses Machine Learning and Natural Language Processing (NLP) techniques to analyze text content and classify it as fake or real based on patterns, keywords, and context.
+
+## Technologies Used
+- Python
+- Machine Learning
+- Natural Language Processing (NLP)
+- Scikit-learn / Pandas (planned)
+
+## Future Scope
+- Integration with browser extensions
+- Real-time social media analysis
+- Multilingual fake news detection
+- 
 # Fake News Detector
 
 A Flask-based web application that detects fake news using Machine Learning (Logistic Regression with TF-IDF vectorization).
